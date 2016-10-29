@@ -1,6 +1,6 @@
 {
   "name": "placehold-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates dummy image via https://placehold.jp/. ",
   "main": "index.js",
   "bin": {
